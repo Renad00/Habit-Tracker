@@ -21,3 +21,6 @@ The application allows users to manage their habits, record completions, track s
 - Python
 - Streamlit
 - Pandas
+
+Demo video:
+https://drive.google.com/file/d/1hkDM3rTh8vGPk7lbGyP6NR8PX4ynz4a0
